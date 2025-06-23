@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1",
+        "name": "SC MIDOCAR SRL",
+        "address": "BUCURESTI, SOS. ODAI nr. 219-225, sector 1",
+        "phone": "0374236401",
+        "hours": "Luni-Vineri: 07:30-17:00",
+        "lat": "44.5029",
+        "lng": "26.0496",
+        "category_1": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        },
+        "category_2": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": "Inaltime maxima autovehicul Hmax=2.45 M; Distanta maxima intre axa spate si postul de conducere al autovehiculului Dmax=4 M",
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Vehicule tractate; Autovehicule echipate cu instalatie GNC"
+        },
+        "category_3": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        }
+    },
+    {
+        "id": "2",
+        "name": "SC SERVICE CICLOP SA",
+        "address": "BUCURESTI, SOS. GIURGIULUI nr. 260, sector 4",
+        "phone": "0769052823",
+        "hours": "Luni-Vineri: 08:00-16:30",
+        "lat": "44.3804",
+        "lng": "26.1017",
+        "category_1": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        },
+        "category_2": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": "Inaltime maxima autovehicul Hmax=2,3 m",
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Vehicule tractate; Autovehicule echipate cu instalatie GNC; Autovehicule din categoriile M1 si N1 inmatriculate pentru prima data incepand cu anul 2021 si care la punctul V.9 din CIV au consemnat indicativele AP, AQ sau AR"
+        },
+        "category_3": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        }
+    },
+    {
+        "id": "3",
+        "name": "SC BRADY TRADE SRL",
+        "address": "BUCURESTI, BD. IULIU MANIU nr. 291-301, sector 6",
+        "phone": "0213187650",
+        "hours": "Luni-Vineri: 07:30-18:00",
+        "lat": "44.4325",
+        "lng": "26.0150",
+        "category_1": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        },
+        "category_2": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": "Inaltime maxima autovehicul Hmax=2.55 m; Masa maxima pe axa Mmax=2 To",
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Vehicule tractate; Autovehicule echipate cu instalatie GNC"
+        },
+        "category_3": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        }
+    },
+    {
+        "id": "4",
+        "name": "SC AUTO MARCU'S GRUP SA",
+        "address": "BUCURESTI, SOS. PANTELIMON nr. 450, sector 2",
+        "phone": "0212552955",
+        "hours": "Luni-Vineri: 08:00-17:00, Sambata: 08:00-13:00",
+        "lat": "44.4419",
+        "lng": "26.1770",
+        "category_1": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        },
+        "category_2": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": null,
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Remorci cu sistem de franare inertial"
+        },
+        "category_3": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        }
+    },
+    {
+        "id": "5",
+        "name": "SC SERVICE AUTO SERUS SRL",
+        "address": "BUCURESTI, BD. TIMISOARA nr. 60E, sector 6",
+        "phone": "0214443335",
+        "hours": "Luni-Vineri: 08:00-16:30",
+        "lat": "44.4268",
+        "lng": "26.0264",
+        "category_1": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        },
+        "category_2": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": "Distanta maxima intre axa spate si extremitatea consolei fata a autovehiculului Dmax=5,3 M",
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Vehicule tractate; Autovehicule echipate cu instalatie GNC"
+        },
+        "category_3": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        }
+    },
+    {
+        "id": "6",
+        "name": "SC ALLEGRO MAXI TAXI SA",
+        "address": "BUCURESTI, STR. CHITILA TRIAJ nr. 4, sector 6",
+        "phone": "0212208217",
+        "hours": "Non-Stop",
+        "lat": "44.4844",
+        "lng": "26.0210",
+        "category_1": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        },
+        "category_2": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": "Distanta minima intre fetele interioare ale anvelopelor dmin=1,05 m",
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Remorci cu sistem de franare inertial; Autovehicule echipate cu instalatie GNC"
+        },
+        "category_3": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": "Distanta minima intre fetele interioare ale anvelopelor dmin=1,05 m",
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Remorci cu sistem de franare inertial; Autovehicule echipate cu instalatie GNC; Autobuze articulate; Autovehicule din categ. N2 (cu exceptia celor cu MTMA sub 7,5 To la care nu este posibila montarea corespunzatoare a unei oglinzi de cls. V) si N3 fabricate dupa 01.01.2000 la care nu se prezinta Certificatul de Conformitate care atesta indeplinirea prevederilor Dir. 2003-97-CE ref. la campul de vizibilitate sau nu exista marca de omologare pe suportul oglinzilor (conf. RNTR-1, Anexa 3)"
+        }
+    },
+    {
+        "id": "7",
+        "name": "SC S.D. PRESTIGE IMPEX '97 SRL",
+        "address": "BUCURESTI, STR. TURNU MAGURELE nr. 66, sector 4",
+        "phone": "0314250115",
+        "hours": "Luni-Vineri: 07:30-20:00, Sambata: 09:00-16:00, Duminica: 09:00-14:00",
+        "lat": "44.3853",
+        "lng": "26.1309",
+        "category_1": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        },
+        "category_2": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": "Lungime maxima autovehicul Lmax=6.6 m",
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Vehicule tractate; Autovehicule echipate cu instalatie GNC"
+        },
+        "category_3": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        }
+    },
+    {
+        "id": "8",
+        "name": "PARLAMENTUL ROMANIEI - CAMERA DEPUTATILOR",
+        "address": "BUCURESTI, STR. IZVOR nr. 2-4, sector 5",
+        "phone": "0214141875",
+        "hours": "Luni-Vineri: 08:00-16:00",
+        "lat": "44.4277",
+        "lng": "26.0862",
+        "category_1": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        },
+        "category_2": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": "Distanta maxima intre axa spate si postul de conducere al autovehiculului Dmax=4 m",
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Vehicule tractate; Autovehicule echipate cu instalatie GPL sau GNC"
+        },
+        "category_3": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        }
+    },
+    {
+        "id": "9",
+        "name": "SC NICK SERVICE AUTO SRL",
+        "address": "BUCURESTI, STR. MARGEANULUI nr. 11-13, sector 5",
+        "phone": "0214202544",
+        "hours": "Luni-Vineri: 08:00-17:00",
+        "lat": "44.3986",
+        "lng": "26.0592",
+        "category_1": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        },
+        "category_2": {
+            "observations": "Nu se efectueaza verificari ale eficacitatii sistemului de franare al vehiculelor prin probe functionale in parcurs",
+            "limitations": null,
+            "interdictions": "Tractoare; Autovehicule care nu sunt echipate cu dispozitiv de amplificare a efortului de apasare la pedala de frana; Vehicule tractate; Autovehicule echipate cu instalatie GNC"
+        },
+        "category_3": {
+            "observations": null,
+            "limitations": null,
+            "interdictions": null
+        }
+    }
+]
